@@ -1,0 +1,10 @@
+export { MarketplaceSection } from './MarketplaceSection';
+export { MediaSection } from './MediaSection';
+export { ProfessionalSection } from './ProfessionalSection';
+export { SubscriptionSection } from './SubscriptionSection';
+export { RehabilitationSection } from './RehabilitationSection';
+export { Services } from './Services'; 
+export { Hero } from './Hero';
+export { TestSection } from './TestSection';
+export { PlatformSection } from './PlatformSection';
+export { ReviewsSection } from './ReviewsSection';
