@@ -21,7 +21,7 @@ export const ReviewsSection: FC<ReviewsSectionProps> = ({ title, reviews }) => {
   return (
     <section className="bg-[#F9F7FE] rounded-[20px] mb-5 overflow-hidden px-8 py-10">
       <div className="flex items-center justify-between mb-6">
-        <Typography variant='h1-bowler' className="text-[#3D334A]">{title}</Typography>
+        <Typography variant='h2-bowler' className="text-[#3D334A]">{title}</Typography>
         <div className="flex gap-3 ml-auto">
           <button className="w-10 h-10 rounded-xl bg-[#B6A3D9] flex items-center justify-center text-white hover:bg-[#846FA0] transition-all review-prev">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M15 18L9 12L15 6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/></svg>
